@@ -1,0 +1,7 @@
+C:\Users\Amir\Desktop\MyLibrary_1\MyLibrary_1\bin\Debug\MyLibrary_1.exe.config
+C:\Users\Amir\Desktop\MyLibrary_1\MyLibrary_1\bin\Debug\MyLibrary_1.exe
+C:\Users\Amir\Desktop\MyLibrary_1\MyLibrary_1\bin\Debug\MyLibrary_1.pdb
+C:\Users\Amir\Desktop\MyLibrary_1\MyLibrary_1\obj\Debug\MyLibrary_1.csproj.AssemblyReference.cache
+C:\Users\Amir\Desktop\MyLibrary_1\MyLibrary_1\obj\Debug\MyLibrary_1.csproj.CoreCompileInputs.cache
+C:\Users\Amir\Desktop\MyLibrary_1\MyLibrary_1\obj\Debug\MyLibrary_1.exe
+C:\Users\Amir\Desktop\MyLibrary_1\MyLibrary_1\obj\Debug\MyLibrary_1.pdb
